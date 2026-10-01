@@ -1,0 +1,5 @@
+# Snapshots and raw exports contain customer cluster data
+snapshots/*
+raw/*
+reports/*
+!*/.gitkeep

@@ -1,0 +1,8 @@
+{
+  "kueue": {
+    "title": "Red Hat build of Kueue",
+    "packages": ["^kueue-operator$"],
+    "crd_groups": ["^kueue\\.x-k8s\\.io$"],
+    "instances": []
+  }
+}
